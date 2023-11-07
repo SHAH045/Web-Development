@@ -1,0 +1,148 @@
+
+{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    
+    
+
+}
+body{
+    background-color: #000000;
+}
+.box1{
+    width: 50%;
+    height: 87rex;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.box1 img{
+    width: 60%;
+    height: 50%;
+    margin: auto;
+}
+.box2 h2{
+    color: white;
+    margin-left: 10rem;
+    margin-top: 7rem;
+    font-size: 4.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.box2 h4{
+    margin-left: 10rem;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: white;
+}
+
+ .btn1{
+    margin-left:10rem ;
+    margin-top: 2.5rem;
+    width: 15.2rem;
+    height: 2rem;
+    background-color: white;
+    border: 1px solid gainsboro;
+    color: rgba(0, 0, 0, 0.623);
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-radius: 1rem;
+}
+.btn2{
+    margin-left:10rem ;
+    margin-top: 1.5rem;
+    width: 15.2rem;
+    height: 2rem;
+    background-color: white;
+    border: 1px solid gainsboro;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-radius: 1rem;
+    
+}
+.fa-brands {
+    font-size: larger;
+
+}
+#orr{
+    margin-left:17rem ;
+    margin-top: 0.2rem;
+    color: rgba(0, 0, 0, 0.568);
+    font-size: large;
+}
+.btn3{
+    margin-left:10rem ;
+    margin-top: 0.2rem;
+    width: 15.2rem;
+    height: 2rem;
+    background-color: rgba(0, 0, 255, 0.767);
+    border: 1px solid gainsboro;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-radius: 1rem;
+    
+}
+#note{
+    margin-left:11rem ;
+    margin-top: 0.5rem;
+}
+small  span{
+    color: blue;
+
+}
+
+
+
+img{
+    width: 20px;
+    margin-top: 5px;
+}
+.btn-font{
+    padding-bottom: 10px;
+}
+
+.alert{
+    
+    margin-left:11rem ;
+    margin-top: 4.0rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.btn4{
+    margin-left:10rem ;
+    margin-top: 1.0rem;
+    width: 15.2rem;
+    height: 2rem;
+    border: 1px solid gainsboro;
+    background-color: white;
+    color:rgba(0, 0, 255, 0.747);
+    font-weight: bold;
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    font-size: 0.8rem;
+    color:gray ;
+    padding: 1.0rem;
+    word-spacing: 0.9rem;
+    line-height: 2;
+}
+
