@@ -112,11 +112,11 @@ align-items: center;
   height: 30px;
 }
 /* .Apple-btn.active,.Apple-btn:hover{
-  /* border: 1px solid #e2e8eb; */
+  border: 1px solid #e2e8eb;
   border: 1px solid #e0ecfd;
   background-color: #e6e6e6;
   color: #000000;
-}
+} */
 .hr-container{
   display: flex;
   justify-content: center;
@@ -167,7 +167,7 @@ u.active,u:hover{
   text-decoration-color: #28a0f1;
   text-decoration-thickness: 1px;
 } 
-.existing-account{
+/* .existing-account{
   display: flex;
   flex-direction: column;
   justify-content: left;
