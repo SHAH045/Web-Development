@@ -86,7 +86,7 @@ align-items: center;
 /* .google-btn.active,.google-btn:hover{
   border: 1px solid #e0ecfd;
   background-color: #f8faff;
-}
+} */
 /* .google-btn.active,.google-btn::after{
     background-color: #000000;
     color: white;
@@ -111,7 +111,7 @@ align-items: center;
 .apple-logo{
   height: 30px;
 }
-.Apple-btn.active,.Apple-btn:hover{
+/* .Apple-btn.active,.Apple-btn:hover{
   /* border: 1px solid #e2e8eb; */
   border: 1px solid #e0ecfd;
   background-color: #e6e6e6;
