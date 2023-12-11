@@ -167,7 +167,7 @@ u.active,u:hover{
   text-decoration-color: #28a0f1;
   text-decoration-thickness: 1px;
 } 
-/* .existing-account{
+.existing-account{
   display: flex;
   flex-direction: column;
   justify-content: left;
@@ -192,11 +192,11 @@ button{
   font-size: 15px;
   font-weight: 550;
 }
-button.active,button:hover{
+/* button.active,button:hover{
   background-color: #e8f5fd;
   border: 1px solid #e7ecef;
-}
-.Footer{
+} */
+/* .Footer{
 margin-bottom: 10px;
 }
 
