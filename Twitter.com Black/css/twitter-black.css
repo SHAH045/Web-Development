@@ -83,15 +83,10 @@ align-items: center;
 .google-logo{
   height: 30px;
 }
-/* .google-btn.active,.google-btn:hover{
+.google-btn.active,.google-btn:hover{
   border: 1px solid #e0ecfd;
   background-color: #f8faff;
-} */
-/* .google-btn.active,.google-btn::after{
-    background-color: #000000;
-    color: white;
-} */
-
+}
 .Apple-btn{
   display: flex;
   justify-content: center;
@@ -111,12 +106,12 @@ align-items: center;
 .apple-logo{
   height: 30px;
 }
-/* .Apple-btn.active,.Apple-btn:hover{
+.Apple-btn.active,.Apple-btn:hover{
   border: 1px solid #e2e8eb;
   border: 1px solid #e0ecfd;
   background-color: #e6e6e6;
   color: #000000;
-} */
+}
 .hr-container{
   display: flex;
   justify-content: center;
@@ -192,11 +187,11 @@ button{
   font-size: 15px;
   font-weight: 550;
 }
-/* button.active,button:hover{
+button.active,button:hover{
   background-color: #e8f5fd;
   border: 1px solid #e7ecef;
-} */
-/* .Footer{
+}
+.Footer{
 margin-bottom: 10px;
 }
 
@@ -269,4 +264,4 @@ a.active,a:hover{
   }
 
  }
- */
+
